@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project demonstrates the next step in my self learning journey in Power BI. This was completed as a YouTube tutorial offered by #DataNerd [Luke Barousse](https://github.com/lukebarousse). This dashbaord contains a *real-world dataset of 2024 data science job postings*. This project demonstrates solving a common problem facing **job hunters, job transitioners, and job swappers**: Information about data jobs is scattered across the interwebs - not easily analyzed. Here we provide an intuitive interface to explore market trends, compensation, and location information. Check out [Luke's great tutorials](https://www.youtube.com/@LukeBarousse) on YouTube!!
+This project demonstrates the next step in my self learning journey in Power BI. This was completed as a YouTube tutorial offered by #DataNerd [Luke Barousse](https://github.com/lukebarousse). This dashboard contains a *real-world dataset of 2024 data science job postings*. This project demonstrates solving a common problem facing **job hunters, job transitioners, and job swappers**: Information about data jobs is scattered across the interwebs - not easily analyzed. Here we provide an intuitive interface to explore market trends, compensation, and location information. Check out [Luke's great tutorials](https://www.youtube.com/@LukeBarousse) on YouTube!!
 
 ## Skills Showcased
 
