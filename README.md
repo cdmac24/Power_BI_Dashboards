@@ -1,4 +1,4 @@
-# CDMac's Power BI Dashboard Portfolio ![Power BI Logo](/images/pbi_logo.png)
+# CDMac's Power BI Dashboard Portfolio ![pbi_logo](/images/PBI_Logo.png)
 
 This is a collection of the dashboards I have created while learning Power BI. It showcases my journey in Power BI - from introductory skills to more advanced analysis concepts - all with the intention of developing visuals that take data and turns it into actionable insights.
 
