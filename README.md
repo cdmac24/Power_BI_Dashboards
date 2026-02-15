@@ -21,7 +21,25 @@ Please explore the dashboards below. Each has its own README with details on the
 * 🗺️ Map VVisualizations for Geospatial Data
 * 🔢 KPI Cards & Detailed Data Tables
 * 🖱️ Interactive Slicers for Filtering
-* 🔘 Buttons & Bookmarks for Page Navigation
+* 🔘 Buttons to Clear Slicers
 * ➡️ Drill-Through Functionality
 
 [**➡️ View Project 1 Details**](/Data_Jobs_v1/README.md)
+
+## 📉 Data Jobs Dashboard v2.0 - Next stage of my journey
+
+![Data Jobs Dashboard v2.0](/images/Dashboard%202.0_%20Main.png)
+
+### 🌎 [View interactive dashboard on Power BI Service](https://app.powerbi.com/links/WuSR2AQIJc?ctid=c97f3c39-f3e8-43a6-a0eb-ba6919788b0f&pbi_source=linkShare)
+
+**Key Power BI Skills:**
+- 🎨 Intuitive, Visually Appealing Design
+- ⚙️ Power Query ETL
+- 🔗 Data Modelling - Star Schema
+- 🧮 DAX Calculations, Aggregations, Measures, & Columns
+- 📊 Charts - Bar, Line, Area, and Column 
+- 🔢 Cards to Highlight KPIs.
+- 🖱️ Interactive Tile Slicers
+- 🔘 Button to Clear All Slicers
+
+[**➡️ View Project 2 Details**](/Data_Jobs_v2/REDAME.md)
