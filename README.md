@@ -25,6 +25,7 @@ Please explore the dashboards below. Each has its own README with details on the
 * ➡️ Drill-Through Functionality
 
 [**➡️ View Project 1 Details**](/Data_Jobs_v1/README.md)
+
 ---
 
 ## 2️⃣ Data Jobs Dashboard v2.0 - Next stage of my journey
