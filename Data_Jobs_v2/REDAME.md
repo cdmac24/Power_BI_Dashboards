@@ -15,7 +15,7 @@ There are so many data jobs posted - where do you even start? This dashboard v2.
 - **🔗 Data Modelling:** Built efficient, star-schema, data models.
 - **🧮 DAX Fundamentals:** Created calculations and aggregations in DAX.
 - **📊 Visualizations Used:**
-    - **📊 Core Charts:** **Column, Bar, Line,** and **Area Charts** for comparision and trend analysis.
+    - **📊 Core Charts:** **Column, Bar, Line,** and **Area Charts** for comparison and trend analysis.
     - **🗺️ Map Charts:** To display geospatial data.
     - **🔢 Cards:** To highlight KPIs.
     - **📋Tables** To present detailed, tabular information.
